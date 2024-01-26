@@ -1,5 +1,12 @@
 {
-    "appclips": {
-        "apps": ["56C767G2AN.com.vodafone.xrgaragenavigation.Clip"]
-    }
-} 
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "56C767G2AN.com.vodafone.xrgaragenavigation",
+			"paths": ["*"]
+		}]
+	},
+	"appclips": {
+		"apps": ["56C767G2AN.com.vodafone.xrgaragenavigation.Clip"]
+	}
+}
